@@ -1,3 +1,5 @@
+# copied from https://github.com/agners/micropython-scd30
+
 from machine import I2C
 import utime
 import struct
